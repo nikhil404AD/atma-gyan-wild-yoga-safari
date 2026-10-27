@@ -15,7 +15,7 @@ Built on TanStack Start (React 19, TypeScript, Tailwind v4, Lucide) — this pla
 - Tests: `bunx vitest run`.
 
 ## Source-data inconsistencies
-1. 3-day retreat: $120 per person vs €225 for two people.
+1. 3-day retreat: $115 per person vs €225 for two people.
 2. Family retreat: homepage price differs from packages page ($950 for three).
 3. 11-day retreat: title says 11 days, description says 10-day / 10 nights; USD vs EUR; itinerary and accommodation inclusions inconsistent.
 4. 14-night homestay: $399 — basis (per person?) unclear.
